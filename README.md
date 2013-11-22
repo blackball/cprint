@@ -1,6 +1,6 @@
 cprint - colorful print utils 
 -----------------------------
 
-![alt text]()
+![alt text](https://raw.github.com/blackball/cprint/master/doc/example.png)
 
 /blackball
